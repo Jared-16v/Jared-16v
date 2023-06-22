@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jared_Valenzuela
+- 👋 Hi, I’m @Jared-16v, my name is Jared Valenzuela M.
 - 👀 I’m interested in working as a telecommunications engineer and helping in business cybersecurity.
 - 🌱 I am currently learning more about programming to perform correctly in a job.
 - 💞️ I’m looking to collaborate on ...
